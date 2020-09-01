@@ -1,6 +1,6 @@
 # License Plate Segmentation using Mask R-CNN
 
-The goal of this project is to use an implementation of Mask R-CNN ([source](https://github.com/matterport/Mask_RCNN)) to perform object segmentation on the [Car License Plate Dataset](https://www.kaggle.com/andrewmvd/car-plate-detection) to accurately detect the bounding boxes of license plates contained in each of the images of the dataset. We will cover the basics behind Mask R-CNN, the description of the dataset, the approach taken in this project, and the implementation details of this project.
+The goal of this project is to use an [implementation of Mask R-CNN](https://github.com/matterport/Mask_RCNN) to perform object segmentation on the [Car License Plate Dataset](https://www.kaggle.com/andrewmvd/car-plate-detection) to accurately detect the bounding boxes of license plates contained in each of the images of the dataset. We will cover the basics behind Mask R-CNN, the description of the dataset, the approach taken in this project, and the implementation details of this project.
 
 ## Mask R-CNN
 
